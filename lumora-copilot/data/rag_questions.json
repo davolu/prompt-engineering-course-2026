@@ -1,0 +1,12 @@
+[
+ {"q": "My inverter shows E17. What should I do, and when should I call Lumora?", "answerable": true, "sections": ["S5.4"], "must_include": ["15", "3 times"]},
+ {"q": "What is the default battery reserve level on the Cell-10?", "answerable": true, "sections": ["S6.4"], "must_include": ["20%"]},
+ {"q": "How long is the workmanship warranty?", "answerable": true, "sections": ["S1.9", "S9.1", "S9.2", "S2.6"], "must_include": ["5 years"]},
+ {"q": "How often should I wipe the inverter and battery exterior?", "answerable": true, "sections": ["S8.3", "S8.7", "S8.8", "S6.3"], "must_include": ["3 months"]},
+ {"q": "If I cancel my installation two days before, is there a fee?", "answerable": true, "sections": ["S10.5", "S10.11"], "must_include": ["150"]},
+ {"q": "How long do refunds take to reach me?", "answerable": true, "sections": ["S10.8", "S10.11"], "must_include": ["10 business days"]},
+ {"q": "What are Lumora's support hours?", "answerable": true, "sections": ["S2.7", "S10.9", "S5.2"], "must_include": ["8:00", "18:00"]},
+ {"q": "The app says Offline but the inverter looks fine. What should I check first?", "answerable": true, "sections": ["S7.4", "S7.5"], "must_include": ["router"]},
+ {"q": "Does Lumora install EV chargers, and what do they cost?", "answerable": false, "sections": [], "must_include": []},
+ {"q": "Can I get a Lumora system on a payment plan with 0% interest?", "answerable": false, "sections": [], "must_include": []}
+]

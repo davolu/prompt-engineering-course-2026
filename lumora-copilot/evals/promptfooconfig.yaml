@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://promptfoo.dev/config-schema.json
+# Chapter 20: the same 40-ticket test set, run as a Promptfoo eval from the terminal.
+description: Lumora ticket triage - v0 bare prompt vs v6 template
+
+prompts:
+  - id: file://prompts.py:v0
+    label: v0 bare zero-shot
+  - id: file://prompts.py:v6
+    label: v6 template
+
+providers:
+  - id: anthropic:messages:claude-haiku-5-5
+    label: haiku
+    config:
+      max_tokens: 300
+      thinking:
+        type: disabled
+
+defaultTest:
+  assert:
+    - type: is-json
+      metric: valid JSON
+    - type: javascript
+      metric: category
+      value: file://check.js:category
+    - type: javascript
+      metric: urgency
+      value: file://check.js:urgency
+    - type: javascript
+      metric: needs_human
+      value: file://check.js:needsHuman
+
+tests: file://tests.yaml

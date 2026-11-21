@@ -1,0 +1,122 @@
+[
+ {
+  "date": "2026-11-24",
+  "window": "08:00-10:00",
+  "type": "site_survey",
+  "available": true
+ },
+ {
+  "date": "2026-11-24",
+  "window": "10:00-12:00",
+  "type": "technician_visit",
+  "available": false
+ },
+ {
+  "date": "2026-11-24",
+  "window": "13:00-15:00",
+  "type": "site_survey",
+  "available": true
+ },
+ {
+  "date": "2026-11-24",
+  "window": "15:00-17:00",
+  "type": "technician_visit",
+  "available": false
+ },
+ {
+  "date": "2026-11-25",
+  "window": "08:00-10:00",
+  "type": "site_survey",
+  "available": true
+ },
+ {
+  "date": "2026-11-25",
+  "window": "10:00-12:00",
+  "type": "technician_visit",
+  "available": true
+ },
+ {
+  "date": "2026-11-25",
+  "window": "13:00-15:00",
+  "type": "site_survey",
+  "available": false
+ },
+ {
+  "date": "2026-11-25",
+  "window": "15:00-17:00",
+  "type": "technician_visit",
+  "available": true
+ },
+ {
+  "date": "2026-11-26",
+  "window": "08:00-10:00",
+  "type": "site_survey",
+  "available": false
+ },
+ {
+  "date": "2026-11-26",
+  "window": "10:00-12:00",
+  "type": "technician_visit",
+  "available": true
+ },
+ {
+  "date": "2026-11-26",
+  "window": "13:00-15:00",
+  "type": "site_survey",
+  "available": false
+ },
+ {
+  "date": "2026-11-26",
+  "window": "15:00-17:00",
+  "type": "technician_visit",
+  "available": true
+ },
+ {
+  "date": "2026-11-27",
+  "window": "08:00-10:00",
+  "type": "site_survey",
+  "available": false
+ },
+ {
+  "date": "2026-11-27",
+  "window": "10:00-12:00",
+  "type": "technician_visit",
+  "available": false
+ },
+ {
+  "date": "2026-11-27",
+  "window": "13:00-15:00",
+  "type": "site_survey",
+  "available": true
+ },
+ {
+  "date": "2026-11-27",
+  "window": "15:00-17:00",
+  "type": "technician_visit",
+  "available": true
+ },
+ {
+  "date": "2026-11-28",
+  "window": "08:00-10:00",
+  "type": "site_survey",
+  "available": false
+ },
+ {
+  "date": "2026-11-28",
+  "window": "10:00-12:00",
+  "type": "technician_visit",
+  "available": true
+ },
+ {
+  "date": "2026-11-28",
+  "window": "13:00-15:00",
+  "type": "site_survey",
+  "available": true
+ },
+ {
+  "date": "2026-11-28",
+  "window": "15:00-17:00",
+  "type": "technician_visit",
+  "available": false
+ }
+]

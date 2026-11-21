@@ -1,0 +1,482 @@
+[
+ {
+  "id": "T001",
+  "customer_id": "C1001",
+  "subject": "Quote for 14 extra panels",
+  "body": "Hi team, hoping you can help. We're thinking of adding 14 panels to our roof and I'd like a rough price and what we'd save each year. Our current system is from 2021. One small thing, the last couple of evenings there's been a faint burning smell near the inverter in the garage, probably just dust, but I thought I'd mention it. Anyway, can you send the quote by Friday? We'd also like to know whether we need a bigger inverter. Thanks so much, Marcus",
+  "label": {
+   "category": "technical_fault",
+   "urgency": "urgent",
+   "needs_human": true
+  },
+  "why": "Looks like a quote request, but a burning smell near the inverter is a safety sign. Safety always wins, so it is technical_fault, urgent, and needs a human to dispatch a technician and give isolator advice."
+ },
+ {
+  "id": "T002",
+  "customer_id": "C1002",
+  "subject": "Charged twice for invoice 20418",
+  "body": "I have just checked my bank statement and Lumora has charged me twice for invoice 20418, both for $1,770 on the 3rd. This is not acceptable. I have been a customer for two years and never had a problem like this. I want the duplicate payment returned immediately and I expect written confirmation. Please do not send me a generic reply. The invoice is only nine days old so I am well inside your dispute window. Call me after 5pm.",
+  "label": {
+   "category": "billing",
+   "urgency": "normal",
+   "needs_human": true
+  },
+  "why": "Duplicate charge is a billing dispute and a refund request. Money is disputed so urgency is normal, and refunds or disputes always need a human."
+ },
+ {
+  "id": "T003",
+  "customer_id": "C1003",
+  "subject": "Need to move installation, it's in 2 days",
+  "body": "Hello, my installation is booked for Thursday at 8am, which is 48 hours from now. Something urgent has come up, my father is in hospital and I have to travel out of town. I know it is short notice. Is there any way to move the installation to the following week? I understand there may be a fee but I really have no choice. Please call me as soon as you can so we can arrange something. Sorry for the trouble. Priya",
+  "label": {
+   "category": "scheduling",
+   "urgency": "normal",
+   "needs_human": true
+  },
+  "why": "Request to reschedule an installation. The date is at risk so urgency is normal. It is inside 72 hours of installation, so a human must handle it (the $150 fee applies)."
+ },
+ {
+  "id": "T004",
+  "customer_id": "C1004",
+  "subject": "Adding a battery to our system",
+  "body": "Good afternoon. We currently have 10 panels and an HX5 hybrid inverter that you installed two years ago. We would like to know how much a Cell-10 battery would cost to add, installation included, and whether our existing inverter can work with it. No rush at all, we are just planning next year's budget and want a rough number. Thank you kindly for your help, and have a lovely week. Helen",
+  "label": {
+   "category": "quote",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Asks for a price on an add-on battery. It is an information request with nothing broken, so urgency is low and no human is needed."
+ },
+ {
+  "id": "T005",
+  "customer_id": "C1005",
+  "subject": "App says inverter offline, is it broken?",
+  "body": "My app has said Inverter offline since Monday and I'm worried something broke. The lights on the inverter look normal, green, no error code and nothing hot. We changed internet provider last week and got a new router. Is the inverter dead? I tried restarting the app twice. Can someone tell me how to reconnect it to the new Wi-Fi? I don't want to pay for a technician if it's just the internet. Regards, Dmitri",
+  "label": {
+   "category": "app_account",
+   "urgency": "normal",
+   "needs_human": false
+  },
+  "why": "Looks like a fault, but the inverter is healthy and the issue is Wi-Fi setup after a router change, so it is app_account. The app is not working, so urgency is normal. No human trigger."
+ },
+ {
+  "id": "T006",
+  "customer_id": "C1006",
+  "subject": "Error E17 on inverter display",
+  "body": "Hello, the inverter display is showing error E17 since this morning. The system still seems to be producing some power and there is no smell, no heat, nothing unusual, the casing feels normal. I looked at the manual but it was not clear. Should I worry? Can someone book a technician to look at it sometime this week? We are not in a hurry but would like it fixed. Thanks, Grace",
+  "label": {
+   "category": "technical_fault",
+   "urgency": "normal",
+   "needs_human": false
+  },
+  "why": "An error code on an installed system is technical_fault. Only E21 is urgent, E17 is not, and there are no safety signs, so urgency is normal. No human trigger applies."
+ },
+ {
+  "id": "T007",
+  "customer_id": "C1007",
+  "subject": "Wrong charge on invoice 20377",
+  "body": "Dear Lumora, I hope you are well. I'm writing about invoice 20377. It includes a charge of $950 for a second visit that I never agreed to, and I have asked twice already by phone. I am sure it is a misunderstanding and I'd like to keep things friendly, but if it is not corrected I will have to pass it to my lawyer, which I would prefer to avoid. Please review the invoice and remove the charge. Kind regards, Mr. Okafor",
+  "label": {
+   "category": "billing",
+   "urgency": "normal",
+   "needs_human": true
+  },
+  "why": "Disputed invoice charge is billing with normal urgency. Needs a human because it is a billing dispute and the polite customer mentions legal action."
+ },
+ {
+  "id": "T008",
+  "customer_id": "C1008",
+  "subject": "Booking a site survey",
+  "body": "Hi, I'd like to book a free site survey for my house at 14 Alder Lane. We want around 20 panels so I understand you need to survey first. Any morning next week would work for us, ideally Tuesday or Wednesday. Do I need to be home the whole time, and how long does it take? Thanks very much for your help, we are really looking forward to going solar. Sam",
+  "label": {
+   "category": "scheduling",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Main request is booking a site survey, so scheduling. Nothing is broken and no date is at risk, so urgency is low. No human trigger."
+ },
+ {
+  "id": "T009",
+  "customer_id": "C1009",
+  "subject": "E21 ISOLATION FAULT",
+  "body": "Inverter screen is red and says E21 ISOLATION FAULT. It beeps every few seconds since 7am. I don't smell anything and it's not hot. I turned nothing off, not sure what to do. Kids are at home and I don't want to touch it. Please call me back. Number is on my account. Thanks, Tomas",
+  "label": {
+   "category": "technical_fault",
+   "urgency": "urgent",
+   "needs_human": true
+  },
+  "why": "Error E21 ISOLATION FAULT is urgent by the guide even without other safety signs. Urgent tickets need a human, who should advise switching off the AC and DC isolators and dispatch a technician."
+ },
+ {
+  "id": "T010",
+  "customer_id": "C1010",
+  "subject": "Thinking about solar, how much?",
+  "body": "So my neighbour Janet got solar from you last year and she says she's saving loads, her husband works at the council and he says prices change in spring, I'm not sure that's true. Anyway we have a big south-facing roof, my husband wants 16 panels but I think 10 is enough. What would each option cost and how much would we save? Also should we get a battery? We don't have one. Sorry for the long message!",
+  "label": {
+   "category": "quote",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Rambling email, but the main request is pricing, sizing and savings for a new system. Nothing is broken so urgency is low, and no human is needed."
+ },
+ {
+  "id": "T011",
+  "customer_id": "C1011",
+  "subject": "Cannot log in",
+  "body": "Hello. I can't log in to the monitoring app. I forgot my password and the reset email never arrives, I've tried three times and checked my spam folder. I use the email I gave during installation. Could you reset it or check that the address is right on file? Everything else works fine and the panels are producing, so there is no rush. Thanks, Lena",
+  "label": {
+   "category": "app_account",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Login and password problem is app_account. The solar system itself is fine, so urgency is low, and no human trigger."
+ },
+ {
+  "id": "T012",
+  "customer_id": "C1012",
+  "subject": "Copy of installation invoice",
+  "body": "Hello, I need a PDF copy of my invoice for the installation done in March. My accountant is asking for it for my tax records and I can't find the original email. Customer name is Robert Hale. If you can send it to the same email address as before that would be great. There is no problem with the charges, I just need the document. Thank you very much for your help.",
+  "label": {
+   "category": "billing",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Invoice copy request is billing. It is an information request with no dispute or refund, so urgency is low and no human is needed."
+ },
+ {
+  "id": "T013",
+  "customer_id": "C1013",
+  "subject": "Cancel installation tomorrow",
+  "body": "I need to cancel my installation tomorrow morning. Money problem, my employer cut my hours and I can't afford the system now. I know your policy says 72 hours so I will pay the $150 fee if I must. Please confirm the cancellation today so the crew doesn't come. I am sorry, this is embarrassing. Please call or email me. Thank you for understanding. Alicia",
+  "label": {
+   "category": "scheduling",
+   "urgency": "normal",
+   "needs_human": true
+  },
+  "why": "Cancelling an installation is scheduling. The date is imminent so urgency is normal. Cancellation inside 72 hours needs a human to confirm the fee."
+ },
+ {
+  "id": "T014",
+  "customer_id": "C1014",
+  "subject": "Production dropped after storm",
+  "body": "Since the storm last Friday my production has dropped. I used to get about 30 kWh a day in sunny weather and now barely 18, even though the sky is clear. Nothing is hot, no error codes, no smell. I wonder if a panel is damaged or branches are shading the roof. Could a technician check it? I assume storm damage might be covered. Let me know. Regards, Ian",
+  "label": {
+   "category": "technical_fault",
+   "urgency": "normal",
+   "needs_human": false
+  },
+  "why": "Low output on an installed system is technical_fault. Something is wrong but there are no safety signs or E21, so urgency is normal. No human trigger."
+ },
+ {
+  "id": "T015",
+  "customer_id": "C1015",
+  "subject": "Price for 8 panels",
+  "body": "Hi. Need price for 8 panels with the HX5 inverter, no battery. Installed, everything included. Also annual savings and payback. Want to compare with another company by tomorrow, they quoted me and I want yours as well. Short answer is fine. Just numbers please. Thanks. K. Wong",
+  "label": {
+   "category": "quote",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Terse request for price, savings and payback for a new system. It is an information request with nothing broken, so urgency is low and no human is needed."
+ },
+ {
+  "id": "T016",
+  "customer_id": "C1016",
+  "subject": "Where is my refund?",
+  "body": "I returned the extra mounting kits you delivered by mistake three weeks ago and was told I'd get a refund of $285. Still nothing in my account. Your staff said 10 business days and it's now 15. Can you tell me where my refund is? I paid by credit card. Please check and let me know exactly when the money will be back with me. Thanks, Beatrice",
+  "label": {
+   "category": "billing",
+   "urgency": "normal",
+   "needs_human": true
+  },
+  "why": "Missing refund is billing. Money is owed so urgency is normal, and refunds need a human to check the payment."
+ },
+ {
+  "id": "T017",
+  "customer_id": "C1017",
+  "subject": "App shows zero production",
+  "body": "App is showing 0 kWh produced today and yesterday, but it's very sunny and my neighbour's panels are working. Is my system broken?? I changed my Wi-Fi password on Sunday, not sure if that is related. The inverter lights are green and the display shows power being generated. Please advise whether I need to send a technician or not. Thanks, Yusuf",
+  "label": {
+   "category": "app_account",
+   "urgency": "normal",
+   "needs_human": false
+  },
+  "why": "Looks like a fault, but the inverter is generating and the app has simply lost its Wi-Fi link after the password change. That makes it app_account. The app is not working so urgency is normal, with no human trigger."
+ },
+ {
+  "id": "T018",
+  "customer_id": "C1018",
+  "subject": "Inverter very hot",
+  "body": "Good morning. Sorry to bother you. This afternoon I noticed the inverter casing is very hot to touch, hotter than usual, I could hardly keep my hand on it. No smoke or anything and the app shows normal output. Probably nothing, but I wasn't sure. Could someone have a look when convenient? Thank you so much, I really appreciate your help. Margaret",
+  "label": {
+   "category": "technical_fault",
+   "urgency": "urgent",
+   "needs_human": true
+  },
+  "why": "A hot inverter casing is a listed safety sign, so it is urgent despite the casual tone. A human should tell her to switch off the isolators and dispatch a technician today."
+ },
+ {
+  "id": "T019",
+  "customer_id": "C1019",
+  "subject": "Move my installation to next month",
+  "body": "Hi, my installation is booked in 10 days but we have decided to redo part of the roof first. Could we move the installation to the end of next month instead? Any weekday is fine. I understand the cancellation rules say free up to 72 hours before, so I'm writing early on purpose. Please let me know which dates are free and confirm by email. Thank you, Jorge",
+  "label": {
+   "category": "scheduling",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Rescheduling an installation is scheduling. It is well outside 72 hours and no date is at risk, so urgency is low and no human is needed."
+ },
+ {
+  "id": "T020",
+  "customer_id": "C1020",
+  "subject": "Solar for my shop",
+  "body": "Good day. I want ask about solar for my shop. Roof is small, maybe place for 6 panels. How much it cost with inverter and installation? And how much electricity I make in one year? I pay big bill every month. Please send me the price in email. Thank you very much for your time. Best regards, Wei",
+  "label": {
+   "category": "quote",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Asks for a price and annual energy for a new system, so quote. Information request only, so urgency is low and no human is needed."
+ },
+ {
+  "id": "T021",
+  "customer_id": "C1021",
+  "subject": "Call-out fee for your faulty inverter",
+  "body": "You billed me $180 for a call-out visit last month for my inverter. But the fault was your equipment, the inverter stopped working only 8 months after install and it's under warranty! My electricity bill also went up while it was off. I want the call-out fee cancelled and refunded. I am disputing this invoice, which is dated 20 days ago. Please confirm in writing. Nina",
+  "label": {
+   "category": "billing",
+   "urgency": "normal",
+   "needs_human": true
+  },
+  "why": "Mixes a fault with billing, but the main request is cancelling and refunding a disputed charge, so billing. The fault is already fixed so it is normal. Billing disputes and refunds need a human."
+ },
+ {
+  "id": "T022",
+  "customer_id": "C1022",
+  "subject": "Technician never showed up",
+  "body": "Your technician did not turn up yesterday for my 2pm appointment. I took the afternoon off work and waited until 5. Nobody called. This is the second time. If I don't get a proper apology and a new time today I will post about this on every review site and social media I can find. Call me now. Dave",
+  "label": {
+   "category": "scheduling",
+   "urgency": "normal",
+   "needs_human": true
+  },
+  "why": "Missed technician visit and rebooking is scheduling. A date is at risk so urgency is normal. He threatens to complain publicly, so a human must respond."
+ },
+ {
+  "id": "T023",
+  "customer_id": "C1023",
+  "subject": "Huge electricity bill, solar not working",
+  "body": "My electricity bill this month is nearly double and I think it's because the solar stopped. App shows zero for 12 days and the inverter display is completely dark. No smell, no heat, I checked and the breaker is on. I am not disputing any Lumora invoice, I just need someone to come and fix it. Please send a technician. Fixing the system comes first, we can talk about the bill after. Carla",
+  "label": {
+   "category": "technical_fault",
+   "urgency": "normal",
+   "needs_human": false
+  },
+  "why": "The high grid bill is a symptom, the system is dead, so technical_fault. No safety signs or E21, so urgency is normal. No dispute with Lumora, so no human trigger."
+ },
+ {
+  "id": "T024",
+  "customer_id": "C1024",
+  "subject": "10 panels and the discount",
+  "body": "Hello, we are considering 10 panels with the HX5 inverter and no battery. I read that there is a 5% discount for 10 or more panels. Does that apply to everything including installation? Can you give me the total price and the payback in years? We want to decide this weekend if possible. Thank you for your help, it is much appreciated. Olga",
+  "label": {
+   "category": "quote",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Asks for price, discount and payback on a new system, so quote. Nothing is broken so urgency is low and no human is needed."
+ },
+ {
+  "id": "T025",
+  "customer_id": "C1025",
+  "subject": "Update my contact details",
+  "body": "Hi, please update my phone number to 555-0142 and my email address to the new one I am writing from. My old email account has been closed so I won't get anything sent there. Could you also confirm once it is done? The system itself works perfectly, I just want to make sure you can reach me about the warranty and any notices. Thanks, Francis",
+  "label": {
+   "category": "app_account",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Changing contact details is an account change, so app_account. Nothing is broken so urgency is low, with no human trigger."
+ },
+ {
+  "id": "T026",
+  "customer_id": "C1026",
+  "subject": "Can I pay the last installment by card?",
+  "body": "How can I pay my final installment? The invoice says bank transfer but I'd rather use my card. Is that possible? The due date is in two weeks so there is no problem, I am only asking so that I do it correctly and don't cause any delays. Please tell me the steps or send a payment link if you have one. Thank you, Samira",
+  "label": {
+   "category": "billing",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Question about how to pay an invoice is billing. There is no dispute or refund, so urgency is low and no human is needed."
+ },
+ {
+  "id": "T027",
+  "customer_id": "C1027",
+  "subject": "SPARKS from the isolator box",
+  "body": "URGENT. There were sparks coming from the DC isolator box on the wall when I switched it just now. Little bangs and a flash. I'm scared to go near it. The system is still on as far as I know. Please send somebody NOW. I'm at 22 Mill Road. I have a small baby in the house and I don't know what to do. Please call me. Elena",
+  "label": {
+   "category": "technical_fault",
+   "urgency": "urgent",
+   "needs_human": true
+  },
+  "why": "Sparks are a listed safety sign, so it is urgent. A human must tell her to switch off the isolators and keep away, and dispatch a technician the same day."
+ },
+ {
+  "id": "T028",
+  "customer_id": "C1028",
+  "subject": "Routine check-up visit",
+  "body": "Hello, my system was installed 11 months ago and I'd like to book a routine check-up visit with a technician before the first year ends. Everything is working fine, no problems at all, I just like to be careful. Any weekday afternoon works for me. Is there a charge for this visit? Thank you for your help, kind regards, Paula",
+  "label": {
+   "category": "scheduling",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Booking a technician visit is scheduling. Nothing is broken and no date is at risk, so urgency is low. No human trigger."
+ },
+ {
+  "id": "T029",
+  "customer_id": "C1029",
+  "subject": "HX5 or HX8 for 13 panels?",
+  "body": "Hi there. I want to compare the HX5 and HX8 inverters. We have 13 panels planned on a large roof. Which inverter would you use and what is the total price? I would also like to know the expected savings per year. We might add a battery later but not now. If there is a discount for our panel count please include it. Thanks a lot, Mikhail",
+  "label": {
+   "category": "quote",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Asks for sizing, price and savings for a new system, so quote. Information request only, so urgency is low and no human is needed."
+ },
+ {
+  "id": "T030",
+  "customer_id": "C1030",
+  "subject": "Locked out of app!!",
+  "body": "I tried to log in about ten times this morning, I think I typed the wrong password and then the app said account locked. Now I can't see my production which I check every day, my husband says I'm obsessed but I like to know. The panels were fine yesterday as far as I know. Can you unlock my account please? I am very annoyed because it has happened before. Doris",
+  "label": {
+   "category": "app_account",
+   "urgency": "normal",
+   "needs_human": false
+  },
+  "why": "Account lockout is app_account. She can't use the app, which counts as not working, so urgency is normal. No human trigger since she only mentions annoyance."
+ },
+ {
+  "id": "T031",
+  "customer_id": "C1031",
+  "subject": "Extra cabling charge on old invoice",
+  "body": "I just noticed an invoice from four months ago, dated 18 February, has a $400 charge for extra cabling that I think is wrong. I know it is long ago but I only just read it carefully. Nobody told me about extra cabling before the work was done. Can this be reviewed, please? I would like the charge removed or at least explained properly. Regards, Walter",
+  "label": {
+   "category": "billing",
+   "urgency": "normal",
+   "needs_human": true
+  },
+  "why": "Disputes an invoice charge, so billing with normal urgency. Billing disputes need a human, who must also note the invoice is outside the 60-day dispute window."
+ },
+ {
+  "id": "T032",
+  "customer_id": "C1032",
+  "subject": "Smoke from battery",
+  "body": "My Cell-10 battery in the garage is giving off smoke from the side vent and there is a smell of plastic burning. I turned off the garage lights and left the room, the door is shut now. I am not sure if I should switch anything off. Please tell me what to do and send someone as fast as possible. I'm outside on the driveway. Kofi",
+  "label": {
+   "category": "technical_fault",
+   "urgency": "urgent",
+   "needs_human": true
+  },
+  "why": "Smoke and a burning smell from a battery are safety signs, so it is urgent. A human must give isolator instructions and dispatch a technician today."
+ },
+ {
+  "id": "T033",
+  "customer_id": "C1033",
+  "subject": "Which time window is my survey?",
+  "body": "Hello, my site survey is booked for Saturday of next week. Could you tell me which two-hour window it is? I only have the date in my confirmation. Also, will the surveyor need to get onto the roof, and should I move my car from the driveway? I want to be ready. Thank you in advance for the information. Best wishes, Rosa",
+  "label": {
+   "category": "scheduling",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Question about a booked site survey is scheduling. It is only an information request with nothing at risk, so urgency is low. No human trigger."
+ },
+ {
+  "id": "T034",
+  "customer_id": "C1034",
+  "subject": "Cost of one more panel",
+  "body": "Hi, can you tell me the cost of adding a single extra L-450 panel to my existing system? I have 9 panels now and I wonder if one more is worth it. I would like to know the price with mounting kit and labour and roughly how much more electricity it would make each year. Also is my inverter big enough? Thanks, Anton",
+  "label": {
+   "category": "quote",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Asks for the price and benefit of an add-on panel, so quote. It is an information request, so urgency is low and no human is needed."
+ },
+ {
+  "id": "T035",
+  "customer_id": "C1035",
+  "subject": "Please close my app account",
+  "body": "Please close my monitoring app account. I don't use it anymore and I would like my data removed from it. My solar system stays, it works fine and I am happy with it, I just don't want the app or the notifications. I have been a customer since 2022. Please confirm by email once the account is closed. Thank you, Judith",
+  "label": {
+   "category": "app_account",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Closing a monitoring app account is an account change, so app_account. Nothing is broken so urgency is low, with no human trigger."
+ },
+ {
+  "id": "T036",
+  "customer_id": "C1036",
+  "subject": "Please explain my invoice lines",
+  "body": "Could you explain the line items on my invoice? I see a mounting and wiring kit for $1,140 and installation labour for $1,380. I'm not disputing anything, I just want to understand how it was calculated, because my husband asks and I couldn't tell him. We had 12 panels installed. A short explanation by email is fine. Thank you very much, Aisha",
+  "label": {
+   "category": "billing",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Asks for an explanation of invoice lines, so billing. It is not a dispute or refund, so urgency is low and no human is needed."
+ },
+ {
+  "id": "T037",
+  "customer_id": "C1037",
+  "subject": "Yellow triangle in app",
+  "body": "The app keeps showing a yellow warning triangle and my graphs look strange, can you help me understand it? Also, side note, the inverter casing was so hot today I pulled my hand away. I figured it was just the warm weather. Please fix the app first, that is what bothers me most. Thanks for your help, Liam",
+  "label": {
+   "category": "technical_fault",
+   "urgency": "urgent",
+   "needs_human": true
+  },
+  "why": "The stated main request is the app, but a hot inverter casing is a safety sign and safety always wins. It is therefore technical_fault, urgent, with a human required to dispatch a technician."
+ },
+ {
+  "id": "T038",
+  "customer_id": "C1038",
+  "subject": "Move my survey to Thursday",
+  "body": "Hi, I need to move my site survey from next Tuesday to the Thursday of the same week. Same time window if possible, otherwise any slot that day works. Sorry for the change, my work schedule shifted. Please send me a confirmation email with the new time when it is done. Thanks a lot for your help, Hugo",
+  "label": {
+   "category": "scheduling",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Moving a site survey is scheduling. It is not an installation inside 72 hours and nothing is at risk, so urgency is low and no human is needed."
+ },
+ {
+  "id": "T039",
+  "customer_id": "C1039",
+  "subject": "Instant price for 24 panels?",
+  "body": "Hello! My wife and I own a large farmhouse and we want 24 panels with two Cell-10 batteries. Can you send me an instant price and the yearly savings? We have done a lot of research and we are ready to go ahead soon. Please let me know if there is anything else you need from us, and thank you for your time. Richard",
+  "label": {
+   "category": "quote",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Asks for a price and savings for a new system, so quote. Nothing is broken so urgency is low. Over 18 panels needs a site survey rather than an instant quote, but no human trigger applies."
+ },
+ {
+  "id": "T040",
+  "customer_id": "C1040",
+  "subject": "What do the app graph lines mean?",
+  "body": "In the app, what is the difference between the green and orange lines? And why does production show in kWh while power shows in kW? Just curious, I'm new to this and don't want to misread anything. This is not a problem with the system, everything works well and the panels are producing nicely. A short explanation is plenty. Thank you, Noor",
+  "label": {
+   "category": "app_account",
+   "urgency": "low",
+   "needs_human": false
+  },
+  "why": "Question about using the monitoring app is app_account. Nothing is broken so urgency is low, with no human trigger."
+ }
+]

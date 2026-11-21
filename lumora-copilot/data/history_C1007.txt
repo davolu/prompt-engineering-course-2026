@@ -1,0 +1,1601 @@
+# Customer history export: C1007 (Lena Novak), Northgate
+# Internal notes, oldest first. Do not share with other customers.
+
+[2022-03-06] #4000 channel=phone agent=Dana topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-03-07] #4001 channel=chat agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Follow-up email sent with steps. Production that week averaged 23 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-03-09] #4002 channel=chat agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-03-11] #4003 channel=email agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. No further action needed. Production that week averaged 18 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-03-12] #4004 channel=email agent=Eli topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer sounded rushed. Production that week averaged 18 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2022-03-14] #4005 channel=email agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Logged for weekly review. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-03-16] #4006 channel=email agent=Dana topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. No further action needed. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-03-16] #4006b channel=internal agent=Ops topic=site
+  NOTE: Gate code for site access is 4471. Technicians must use the side gate.
+
+[2022-03-19] #4007 channel=email agent=Eli topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Resolved on first contact. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-03-22] #4008 channel=email agent=Gita topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Follow-up email sent with steps. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-03-23] #4009 channel=email agent=Ada topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer sounded rushed. Production that week averaged 33 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-03-25] #4010 channel=chat agent=Ben topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer thanked the team. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-03-27] #4011 channel=phone agent=Gita topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-03-30] #4012 channel=email agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer was friendly. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-04-01] #4013 channel=chat agent=Gita topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer sounded rushed. Production that week averaged 22 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-04-02] #4014 channel=email agent=Ada topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Follow-up email sent with steps. Production that week averaged 26 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-04-03] #4015 channel=phone agent=Gita topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer sounded rushed. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-04-04] #4016 channel=email agent=Gita topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-04-05] #4017 channel=email agent=Eli topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer was friendly. Production that week averaged 25 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-04-07] #4018 channel=email agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Follow-up email sent with steps. Production that week averaged 33 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-04-09] #4019 channel=email agent=Chidi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. No further action needed. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-04-12] #4020 channel=chat agent=Femi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer sounded rushed. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-04-14] #4021 channel=phone agent=Ada topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-04-17] #4022 channel=chat agent=Femi topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer sounded rushed. Production that week averaged 30 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-04-20] #4023 channel=chat agent=Ben topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 20 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-04-22] #4024 channel=chat agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. No further action needed. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2022-04-23] #4025 channel=phone agent=Dana topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer was friendly. Production that week averaged 32 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-04-24] #4026 channel=phone agent=Eli topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-04-25] #4027 channel=chat agent=Femi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-04-28] #4028 channel=phone agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer was friendly. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-05-01] #4029 channel=email agent=Femi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Follow-up email sent with steps. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2022-05-02] #4030 channel=chat agent=Chidi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Follow-up email sent with steps. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-05-04] #4031 channel=chat agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-05-06] #4032 channel=chat agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 30 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-05-09] #4033 channel=email agent=Femi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer was friendly. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-05-12] #4034 channel=chat agent=Femi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Follow-up email sent with steps. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-05-15] #4035 channel=chat agent=Ada topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer thanked the team. Production that week averaged 27 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-05-17] #4036 channel=chat agent=Ada topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer sounded rushed. Production that week averaged 33 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-05-19] #4037 channel=phone agent=Ben topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-05-21] #4038 channel=email agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Follow-up email sent with steps. Production that week averaged 30 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-05-22] #4039 channel=email agent=Ben topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 30 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-05-23] #4040 channel=phone agent=Chidi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer sounded rushed. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-05-25] #4041 channel=phone agent=Dana topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-05-27] #4042 channel=chat agent=Chidi topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Follow-up email sent with steps. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-05-28] #4043 channel=chat agent=Ada topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Logged for weekly review. Production that week averaged 26 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-05-30] #4044 channel=chat agent=Ben topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 30 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2022-05-31] #4045 channel=email agent=Gita topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer sounded rushed. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-06-02] #4046 channel=chat agent=Femi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. No further action needed. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-06-03] #4047 channel=email agent=Femi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 18 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-06-04] #4048 channel=phone agent=Eli topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Resolved on first contact. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-06-06] #4049 channel=phone agent=Femi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer was friendly. Production that week averaged 30 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-06-08] #4050 channel=email agent=Dana topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. No further action needed. Production that week averaged 34 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-06-10] #4051 channel=chat agent=Gita topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer was friendly. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-06-12] #4052 channel=chat agent=Gita topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Resolved on first contact. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-06-14] #4053 channel=email agent=Dana topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer was friendly. Production that week averaged 28 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-06-16] #4054 channel=email agent=Gita topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer was friendly. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-06-17] #4055 channel=chat agent=Gita topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2022-06-20] #4056 channel=chat agent=Femi topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-06-21] #4057 channel=chat agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 23 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-06-23] #4058 channel=chat agent=Ben topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-06-26] #4059 channel=phone agent=Eli topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer sounded rushed. Production that week averaged 21 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-06-29] #4060 channel=chat agent=Ada topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer was friendly. Production that week averaged 34 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-07-01] #4061 channel=email agent=Ada topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. No further action needed. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-07-03] #4062 channel=phone agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-07-06] #4063 channel=email agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 18 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2022-07-09] #4064 channel=email agent=Ben topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer was friendly. Production that week averaged 25 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-07-11] #4065 channel=chat agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer sounded rushed. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-07-14] #4066 channel=chat agent=Ben topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Resolved on first contact. Production that week averaged 34 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-07-16] #4067 channel=chat agent=Eli topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 23 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-07-19] #4068 channel=email agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. No further action needed. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-07-20] #4069 channel=phone agent=Eli topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer sounded rushed. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-07-21] #4070 channel=email agent=Ben topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer sounded rushed. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-07-22] #4071 channel=phone agent=Eli topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-07-25] #4072 channel=email agent=Eli topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer was friendly. Production that week averaged 29 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-07-28] #4073 channel=phone agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. No further action needed. Production that week averaged 24 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-07-29] #4074 channel=chat agent=Eli topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer was friendly. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-07-30] #4075 channel=email agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer sounded rushed. Production that week averaged 23 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-08-02] #4076 channel=email agent=Ben topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer thanked the team. Production that week averaged 32 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-08-04] #4077 channel=phone agent=Eli topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Follow-up email sent with steps. Production that week averaged 29 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2022-08-07] #4078 channel=chat agent=Femi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-08-09] #4079 channel=chat agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 30 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-08-10] #4080 channel=email agent=Chidi topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 20 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-08-13] #4081 channel=chat agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer sounded rushed. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2022-08-14] #4082 channel=phone agent=Ben topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Logged for weekly review. Production that week averaged 28 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-08-16] #4083 channel=email agent=Femi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Follow-up email sent with steps. Production that week averaged 23 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-08-18] #4084 channel=email agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer was friendly. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-08-21] #4085 channel=email agent=Femi topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Resolved on first contact. Production that week averaged 30 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-08-24] #4086 channel=chat agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Follow-up email sent with steps. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-08-26] #4087 channel=email agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 21 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-08-28] #4088 channel=chat agent=Ada topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Follow-up email sent with steps. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-08-29] #4089 channel=phone agent=Chidi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Resolved on first contact. Production that week averaged 28 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-09-01] #4090 channel=email agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Logged for weekly review. Production that week averaged 32 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-09-04] #4091 channel=email agent=Dana topic=payment
+  Summary: Customer updated card on file; confirmed by phone. No further action needed. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-09-05] #4092 channel=chat agent=Eli topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 19 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-09-07] #4093 channel=phone agent=Eli topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer thanked the team. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2022-09-09] #4094 channel=phone agent=Femi topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer thanked the team. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-09-10] #4095 channel=chat agent=Ben topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 31 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-09-11] #4096 channel=phone agent=Ada topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. No further action needed. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-09-13] #4097 channel=email agent=Ada topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-09-14] #4098 channel=chat agent=Ada topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-09-16] #4099 channel=email agent=Chidi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer sounded rushed. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-09-18] #4100 channel=chat agent=Dana topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer sounded rushed. Production that week averaged 32 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-09-21] #4101 channel=phone agent=Chidi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. No further action needed. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-09-24] #4102 channel=phone agent=Ada topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer sounded rushed. Production that week averaged 34 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2022-09-26] #4103 channel=chat agent=Femi topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer thanked the team. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-09-27] #4104 channel=chat agent=Femi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer sounded rushed. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-09-30] #4105 channel=phone agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer was friendly. Production that week averaged 31 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-10-01] #4106 channel=phone agent=Ada topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 20 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-10-04] #4107 channel=phone agent=Dana topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. No further action needed. Production that week averaged 33 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2022-10-06] #4108 channel=chat agent=Ben topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Follow-up email sent with steps. Production that week averaged 20 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-10-09] #4109 channel=phone agent=Femi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2022-10-11] #4110 channel=chat agent=Chidi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. No further action needed. Production that week averaged 27 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-10-13] #4111 channel=email agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer thanked the team. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-10-15] #4112 channel=phone agent=Gita topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer thanked the team. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-10-16] #4113 channel=chat agent=Eli topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer sounded rushed. Production that week averaged 20 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-10-18] #4114 channel=email agent=Ben topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Resolved on first contact. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-10-20] #4115 channel=chat agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Resolved on first contact. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2022-10-22] #4116 channel=phone agent=Femi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer sounded rushed. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-10-24] #4117 channel=phone agent=Femi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 30 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-10-25] #4118 channel=phone agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-10-26] #4119 channel=phone agent=Gita topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Logged for weekly review. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-10-29] #4120 channel=email agent=Eli topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer thanked the team. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-10-30] #4121 channel=phone agent=Gita topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer thanked the team. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-11-01] #4122 channel=email agent=Ada topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-11-02] #4123 channel=chat agent=Chidi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2022-11-04] #4124 channel=email agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. No further action needed. Production that week averaged 33 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-11-07] #4125 channel=phone agent=Gita topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-11-08] #4126 channel=chat agent=Ada topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 34 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-11-09] #4127 channel=email agent=Ben topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Follow-up email sent with steps. Production that week averaged 23 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-11-12] #4128 channel=email agent=Dana topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Resolved on first contact. Production that week averaged 31 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2022-11-14] #4129 channel=phone agent=Femi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Follow-up email sent with steps. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2022-11-15] #4130 channel=phone agent=Ada topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Logged for weekly review. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-11-16] #4131 channel=phone agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer sounded rushed. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2022-11-19] #4132 channel=phone agent=Ben topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer sounded rushed. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2022-11-21] #4133 channel=chat agent=Dana topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-11-23] #4134 channel=email agent=Dana topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 25 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-11-24] #4135 channel=phone agent=Eli topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Logged for weekly review. Production that week averaged 34 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-11-27] #4136 channel=phone agent=Chidi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer was friendly. Production that week averaged 32 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-11-30] #4137 channel=email agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Follow-up email sent with steps. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-12-03] #4138 channel=chat agent=Eli topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. No further action needed. Production that week averaged 26 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-12-04] #4139 channel=email agent=Ada topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Logged for weekly review. Production that week averaged 24 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2022-12-05] #4140 channel=chat agent=Femi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Resolved on first contact. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2022-12-08] #4141 channel=chat agent=Eli topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer was friendly. Production that week averaged 34 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-12-09] #4142 channel=chat agent=Ada topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer sounded rushed. Production that week averaged 32 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2022-12-12] #4143 channel=phone agent=Ben topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2022-12-14] #4144 channel=phone agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer thanked the team. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-12-17] #4145 channel=chat agent=Dana topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 32 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2022-12-20] #4146 channel=phone agent=Femi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer was friendly. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2022-12-23] #4147 channel=email agent=Gita topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Follow-up email sent with steps. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-12-25] #4148 channel=chat agent=Chidi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2022-12-27] #4149 channel=phone agent=Femi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer sounded rushed. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2022-12-29] #4150 channel=chat agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Follow-up email sent with steps. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2022-12-30] #4151 channel=chat agent=Ada topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer sounded rushed. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2022-12-31] #4152 channel=email agent=Gita topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 32 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-01-01] #4153 channel=email agent=Ada topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer was friendly. Production that week averaged 31 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-01-03] #4154 channel=email agent=Femi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 24 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-01-05] #4155 channel=chat agent=Ada topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Follow-up email sent with steps. Production that week averaged 30 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-01-06] #4156 channel=email agent=Chidi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer thanked the team. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-01-08] #4157 channel=chat agent=Dana topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer was friendly. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-01-10] #4158 channel=chat agent=Ben topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer thanked the team. Production that week averaged 26 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-01-13] #4159 channel=chat agent=Eli topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Resolved on first contact. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-01-16] #4160 channel=email agent=Femi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 24 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-01-17] #4161 channel=phone agent=Femi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-01-19] #4162 channel=email agent=Dana topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Follow-up email sent with steps. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-01-22] #4163 channel=chat agent=Gita topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer sounded rushed. Production that week averaged 28 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-01-23] #4164 channel=chat agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-01-24] #4165 channel=chat agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer thanked the team. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-01-26] #4166 channel=chat agent=Ben topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Logged for weekly review. Production that week averaged 27 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-01-29] #4167 channel=email agent=Ben topic=payment
+  Summary: Customer updated card on file; confirmed by phone. No further action needed. Production that week averaged 24 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-01-30] #4168 channel=phone agent=Ada topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer thanked the team. Production that week averaged 30 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-02-02] #4169 channel=email agent=Eli topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Resolved on first contact. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-02-05] #4170 channel=phone agent=Eli topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Follow-up email sent with steps. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-02-07] #4171 channel=chat agent=Gita topic=payment
+  Summary: Customer updated card on file; confirmed by phone. No further action needed. Production that week averaged 31 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-02-09] #4172 channel=phone agent=Ada topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 21 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-02-12] #4173 channel=phone agent=Ada topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Follow-up email sent with steps. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-02-15] #4174 channel=chat agent=Dana topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Follow-up email sent with steps. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-02-16] #4175 channel=phone agent=Ben topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Logged for weekly review. Production that week averaged 34 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-02-18] #4176 channel=email agent=Eli topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer thanked the team. Production that week averaged 27 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-02-19] #4177 channel=chat agent=Chidi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. No further action needed. Production that week averaged 31 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-02-20] #4178 channel=email agent=Ada topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 21 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-02-21] #4179 channel=phone agent=Ada topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer thanked the team. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-02-22] #4180 channel=email agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer sounded rushed. Production that week averaged 32 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-02-23] #4181 channel=chat agent=Ben topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. No further action needed. Production that week averaged 19 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-02-25] #4182 channel=phone agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-02-26] #4183 channel=chat agent=Ada topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Logged for weekly review. Production that week averaged 24 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-02-28] #4184 channel=chat agent=Femi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer sounded rushed. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-03-01] #4185 channel=email agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. No further action needed. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-03-04] #4186 channel=chat agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Resolved on first contact. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-03-05] #4187 channel=phone agent=Ada topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Logged for weekly review. Production that week averaged 24 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-03-08] #4188 channel=chat agent=Chidi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-03-11] #4189 channel=phone agent=Ben topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer sounded rushed. Production that week averaged 25 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-03-14] #4190 channel=email agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Follow-up email sent with steps. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-03-15] #4191 channel=phone agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer thanked the team. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-03-16] #4192 channel=email agent=Ben topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Logged for weekly review. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-03-17] #4193 channel=chat agent=Dana topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 30 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-03-18] #4194 channel=chat agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 29 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-03-19] #4195 channel=chat agent=Gita topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Resolved on first contact. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-03-22] #4196 channel=chat agent=Dana topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-03-25] #4197 channel=chat agent=Gita topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Logged for weekly review. Production that week averaged 25 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-03-28] #4198 channel=chat agent=Eli topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Logged for weekly review. Production that week averaged 33 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-03-29] #4199 channel=email agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. No further action needed. Production that week averaged 32 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-03-30] #4200 channel=chat agent=Dana topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 31 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-04-02] #4201 channel=email agent=Ada topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Logged for weekly review. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-04-05] #4202 channel=phone agent=Dana topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-04-08] #4203 channel=phone agent=Gita topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-04-10] #4204 channel=email agent=Dana topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer sounded rushed. Production that week averaged 32 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-04-12] #4205 channel=chat agent=Ben topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-04-15] #4206 channel=chat agent=Dana topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer sounded rushed. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-04-16] #4207 channel=chat agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-04-18] #4208 channel=email agent=Femi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer was friendly. Production that week averaged 25 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-04-19] #4209 channel=email agent=Dana topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 32 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-04-21] #4210 channel=chat agent=Ben topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Resolved on first contact. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-04-24] #4211 channel=phone agent=Eli topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. No further action needed. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-04-25] #4212 channel=email agent=Ben topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Follow-up email sent with steps. Production that week averaged 31 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-04-26] #4213 channel=email agent=Dana topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 24 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-04-29] #4214 channel=phone agent=Dana topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Logged for weekly review. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-05-01] #4215 channel=phone agent=Dana topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 20 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-05-03] #4216 channel=email agent=Eli topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer thanked the team. Production that week averaged 23 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-05-06] #4217 channel=chat agent=Femi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 24 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-05-08] #4218 channel=chat agent=Gita topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer sounded rushed. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-05-11] #4219 channel=phone agent=Gita topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer was friendly. Production that week averaged 30 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-05-13] #4220 channel=chat agent=Femi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Resolved on first contact. Production that week averaged 19 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-05-16] #4221 channel=email agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-05-17] #4222 channel=phone agent=Dana topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Resolved on first contact. Production that week averaged 33 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-05-20] #4223 channel=phone agent=Femi topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Resolved on first contact. Production that week averaged 32 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-05-21] #4224 channel=phone agent=Eli topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Logged for weekly review. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-05-23] #4225 channel=phone agent=Ben topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-05-25] #4226 channel=email agent=Ada topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer sounded rushed. Production that week averaged 18 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-05-28] #4227 channel=chat agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Logged for weekly review. Production that week averaged 20 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-05-31] #4228 channel=phone agent=Ben topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Logged for weekly review. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-06-01] #4229 channel=email agent=Dana topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Follow-up email sent with steps. Production that week averaged 30 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-06-03] #4230 channel=email agent=Dana topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer sounded rushed. Production that week averaged 24 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-06-05] #4231 channel=email agent=Femi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-06-07] #4232 channel=chat agent=Gita topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Resolved on first contact. Production that week averaged 27 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-06-09] #4233 channel=email agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Resolved on first contact. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-06-11] #4234 channel=phone agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Resolved on first contact. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-06-12] #4235 channel=phone agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-06-15] #4236 channel=chat agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Follow-up email sent with steps. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-06-16] #4237 channel=chat agent=Dana topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer thanked the team. Production that week averaged 31 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-06-17] #4238 channel=phone agent=Dana topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Follow-up email sent with steps. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-06-19] #4239 channel=phone agent=Ada topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-06-21] #4240 channel=chat agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Resolved on first contact. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-06-24] #4241 channel=email agent=Eli topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer was friendly. Production that week averaged 33 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-06-27] #4242 channel=chat agent=Gita topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-06-28] #4243 channel=chat agent=Ben topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 30 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-06-29] #4244 channel=phone agent=Eli topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer sounded rushed. Production that week averaged 33 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-07-01] #4245 channel=phone agent=Femi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Resolved on first contact. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-07-03] #4246 channel=email agent=Eli topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. No further action needed. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-07-04] #4247 channel=phone agent=Eli topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer was friendly. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-07-07] #4248 channel=phone agent=Ada topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 29 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-07-10] #4249 channel=chat agent=Femi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Resolved on first contact. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-07-11] #4250 channel=email agent=Gita topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Logged for weekly review. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-07-14] #4251 channel=chat agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer thanked the team. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-07-15] #4252 channel=chat agent=Chidi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-07-16] #4253 channel=chat agent=Gita topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 22 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-07-18] #4254 channel=chat agent=Dana topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. No further action needed. Production that week averaged 30 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-07-19] #4255 channel=email agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. No further action needed. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-07-21] #4256 channel=email agent=Dana topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-07-22] #4257 channel=phone agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-07-25] #4258 channel=email agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Follow-up email sent with steps. Production that week averaged 30 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-07-28] #4259 channel=email agent=Dana topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Logged for weekly review. Production that week averaged 23 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-07-30] #4260 channel=email agent=Chidi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer was friendly. Production that week averaged 18 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-08-01] #4261 channel=phone agent=Ben topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Resolved on first contact. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-08-03] #4262 channel=chat agent=Ada topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-08-05] #4263 channel=email agent=Chidi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer was friendly. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-08-07] #4264 channel=phone agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer was friendly. Production that week averaged 30 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-08-08] #4265 channel=chat agent=Gita topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer thanked the team. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-08-08] #4265b channel=internal agent=Ops topic=site
+  NOTE: Customer has a nervous dog called Biscuit. Always call 15 minutes before arriving.
+
+[2023-08-10] #4266 channel=phone agent=Eli topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Logged for weekly review. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-08-11] #4267 channel=chat agent=Ada topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer was friendly. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-08-14] #4268 channel=chat agent=Dana topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer was friendly. Production that week averaged 18 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-08-16] #4269 channel=chat agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Logged for weekly review. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-08-18] #4270 channel=chat agent=Gita topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Logged for weekly review. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-08-21] #4271 channel=chat agent=Ada topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Resolved on first contact. Production that week averaged 18 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2023-08-22] #4272 channel=chat agent=Chidi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Follow-up email sent with steps. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-08-24] #4273 channel=phone agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 20 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-08-27] #4274 channel=phone agent=Ben topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Resolved on first contact. Production that week averaged 23 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-08-30] #4275 channel=phone agent=Femi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer thanked the team. Production that week averaged 24 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-08-31] #4276 channel=phone agent=Chidi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer sounded rushed. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-09-01] #4277 channel=email agent=Dana topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-09-02] #4278 channel=email agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Resolved on first contact. Production that week averaged 21 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-09-04] #4279 channel=phone agent=Dana topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer sounded rushed. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-09-07] #4280 channel=email agent=Gita topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Resolved on first contact. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-09-08] #4281 channel=email agent=Ben topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. No further action needed. Production that week averaged 29 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-09-11] #4282 channel=email agent=Gita topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-09-13] #4283 channel=email agent=Dana topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-09-16] #4284 channel=phone agent=Eli topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Follow-up email sent with steps. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-09-18] #4285 channel=phone agent=Chidi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer thanked the team. Production that week averaged 26 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-09-19] #4286 channel=phone agent=Ada topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 22 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-09-20] #4287 channel=chat agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Logged for weekly review. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-09-23] #4288 channel=email agent=Ben topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Resolved on first contact. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-09-25] #4289 channel=phone agent=Dana topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-09-27] #4290 channel=phone agent=Femi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 25 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-09-30] #4291 channel=phone agent=Ben topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Logged for weekly review. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-10-03] #4292 channel=email agent=Gita topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Logged for weekly review. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-10-05] #4293 channel=email agent=Gita topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-10-06] #4294 channel=email agent=Gita topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Follow-up email sent with steps. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-10-07] #4295 channel=chat agent=Chidi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-10-09] #4296 channel=phone agent=Femi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Logged for weekly review. Production that week averaged 28 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2023-10-12] #4297 channel=chat agent=Ben topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer sounded rushed. Production that week averaged 23 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-10-15] #4298 channel=email agent=Ben topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Follow-up email sent with steps. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-10-17] #4299 channel=phone agent=Chidi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer thanked the team. Production that week averaged 24 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-10-20] #4300 channel=chat agent=Chidi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. No further action needed. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-10-21] #4301 channel=phone agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. No further action needed. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-10-23] #4302 channel=chat agent=Ada topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer sounded rushed. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-10-24] #4303 channel=email agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-10-27] #4304 channel=phone agent=Dana topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer sounded rushed. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-10-30] #4305 channel=chat agent=Ada topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 29 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-11-01] #4306 channel=chat agent=Chidi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Follow-up email sent with steps. Production that week averaged 27 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-11-04] #4307 channel=email agent=Dana topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer sounded rushed. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-11-06] #4308 channel=phone agent=Ada topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Resolved on first contact. Production that week averaged 21 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-11-08] #4309 channel=phone agent=Ada topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer was friendly. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-11-09] #4310 channel=email agent=Chidi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Follow-up email sent with steps. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2023-11-11] #4311 channel=email agent=Ada topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 30 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-11-14] #4312 channel=email agent=Ada topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. No further action needed. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2023-11-17] #4313 channel=chat agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 33 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2023-11-20] #4314 channel=chat agent=Gita topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer was friendly. Production that week averaged 20 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-11-23] #4315 channel=chat agent=Chidi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Logged for weekly review. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-11-25] #4316 channel=phone agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-11-27] #4317 channel=chat agent=Eli topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-11-30] #4318 channel=email agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 25 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2023-12-03] #4319 channel=phone agent=Chidi topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Resolved on first contact. Production that week averaged 25 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2023-12-05] #4320 channel=chat agent=Dana topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer sounded rushed. Production that week averaged 23 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-12-07] #4321 channel=email agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Logged for weekly review. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-12-10] #4322 channel=phone agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer sounded rushed. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-12-11] #4323 channel=email agent=Femi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Logged for weekly review. Production that week averaged 30 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-12-14] #4324 channel=phone agent=Ada topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 33 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2023-12-16] #4325 channel=email agent=Ben topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Resolved on first contact. Production that week averaged 26 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-12-19] #4326 channel=phone agent=Ben topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-12-21] #4327 channel=chat agent=Eli topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Resolved on first contact. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2023-12-22] #4328 channel=phone agent=Dana topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2023-12-24] #4329 channel=email agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer was friendly. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2023-12-27] #4330 channel=phone agent=Dana topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2023-12-30] #4331 channel=phone agent=Chidi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-01-02] #4332 channel=phone agent=Eli topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-01-03] #4333 channel=chat agent=Chidi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer thanked the team. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-01-05] #4334 channel=email agent=Eli topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Follow-up email sent with steps. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-01-06] #4335 channel=phone agent=Gita topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer thanked the team. Production that week averaged 31 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-01-08] #4336 channel=chat agent=Femi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Resolved on first contact. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-01-09] #4337 channel=email agent=Chidi topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-01-12] #4338 channel=phone agent=Ada topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer was friendly. Production that week averaged 30 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-01-15] #4339 channel=chat agent=Femi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Resolved on first contact. Production that week averaged 18 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-01-18] #4340 channel=chat agent=Dana topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer was friendly. Production that week averaged 31 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-01-19] #4341 channel=chat agent=Gita topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Follow-up email sent with steps. Production that week averaged 22 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-01-22] #4342 channel=email agent=Dana topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 28 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-01-23] #4343 channel=chat agent=Femi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. No further action needed. Production that week averaged 21 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-01-25] #4344 channel=chat agent=Eli topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. No further action needed. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-01-27] #4345 channel=email agent=Gita topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer thanked the team. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-01-29] #4346 channel=phone agent=Dana topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer was friendly. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-01-31] #4347 channel=phone agent=Eli topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. No further action needed. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2024-02-03] #4348 channel=email agent=Chidi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer sounded rushed. Production that week averaged 23 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-02-05] #4349 channel=chat agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Logged for weekly review. Production that week averaged 30 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-02-07] #4350 channel=phone agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer sounded rushed. Production that week averaged 30 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-02-10] #4351 channel=chat agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer sounded rushed. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-02-13] #4352 channel=email agent=Gita topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-02-16] #4353 channel=chat agent=Ada topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-02-18] #4354 channel=email agent=Ben topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer was friendly. Production that week averaged 21 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-02-21] #4355 channel=chat agent=Chidi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 23 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-02-23] #4356 channel=phone agent=Gita topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer sounded rushed. Production that week averaged 29 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-02-24] #4357 channel=email agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer sounded rushed. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2024-02-25] #4358 channel=phone agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer sounded rushed. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-02-28] #4359 channel=chat agent=Chidi topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer thanked the team. Production that week averaged 21 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-02-29] #4360 channel=phone agent=Femi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer thanked the team. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-03-03] #4361 channel=phone agent=Ada topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Resolved on first contact. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-03-05] #4362 channel=phone agent=Ben topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer sounded rushed. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-03-08] #4363 channel=chat agent=Femi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer thanked the team. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-03-10] #4364 channel=chat agent=Ben topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. No further action needed. Production that week averaged 33 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-03-12] #4365 channel=chat agent=Chidi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. No further action needed. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-03-15] #4366 channel=chat agent=Femi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer thanked the team. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-03-16] #4367 channel=email agent=Chidi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-03-17] #4368 channel=email agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer sounded rushed. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-03-19] #4369 channel=email agent=Ada topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. No further action needed. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-03-22] #4370 channel=chat agent=Ada topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer sounded rushed. Production that week averaged 31 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-03-23] #4371 channel=phone agent=Ada topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. No further action needed. Production that week averaged 20 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-03-25] #4372 channel=chat agent=Chidi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer sounded rushed. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-03-27] #4373 channel=phone agent=Gita topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer thanked the team. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-03-30] #4374 channel=email agent=Ada topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-04-01] #4375 channel=email agent=Femi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer sounded rushed. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-04-02] #4376 channel=email agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 25 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-04-04] #4377 channel=phone agent=Ada topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Resolved on first contact. Production that week averaged 25 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-04-07] #4378 channel=chat agent=Chidi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer thanked the team. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-04-09] #4379 channel=email agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-04-11] #4380 channel=phone agent=Ben topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer sounded rushed. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-04-14] #4381 channel=phone agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer thanked the team. Production that week averaged 18 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-04-15] #4382 channel=chat agent=Chidi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Resolved on first contact. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-04-16] #4383 channel=email agent=Femi topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer was friendly. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-04-17] #4384 channel=chat agent=Ben topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Follow-up email sent with steps. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-04-18] #4385 channel=phone agent=Ben topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Logged for weekly review. Production that week averaged 31 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-04-20] #4386 channel=phone agent=Eli topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-04-21] #4387 channel=phone agent=Ada topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer was friendly. Production that week averaged 31 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2024-04-22] #4388 channel=phone agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer sounded rushed. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-04-23] #4389 channel=chat agent=Chidi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Logged for weekly review. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2024-04-24] #4390 channel=chat agent=Femi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Logged for weekly review. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-04-27] #4391 channel=email agent=Gita topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Resolved on first contact. Production that week averaged 20 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-04-30] #4392 channel=phone agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer was friendly. Production that week averaged 23 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-05-02] #4393 channel=chat agent=Gita topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer thanked the team. Production that week averaged 32 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-05-03] #4394 channel=email agent=Ada topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. No further action needed. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-05-04] #4395 channel=chat agent=Ada topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. No further action needed. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-05-06] #4396 channel=phone agent=Dana topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Logged for weekly review. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2024-05-08] #4397 channel=chat agent=Dana topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Follow-up email sent with steps. Production that week averaged 19 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-05-09] #4398 channel=chat agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Follow-up email sent with steps. Production that week averaged 24 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-05-10] #4399 channel=phone agent=Eli topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 20 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-05-11] #4400 channel=email agent=Chidi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 19 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-05-14] #4401 channel=chat agent=Dana topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Resolved on first contact. Production that week averaged 26 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-05-15] #4402 channel=chat agent=Eli topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer sounded rushed. Production that week averaged 31 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-05-17] #4403 channel=email agent=Femi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Follow-up email sent with steps. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-05-18] #4404 channel=chat agent=Eli topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer sounded rushed. Production that week averaged 30 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-05-20] #4405 channel=chat agent=Ada topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. No further action needed. Production that week averaged 29 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-05-22] #4406 channel=phone agent=Femi topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. No further action needed. Production that week averaged 18 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-05-24] #4407 channel=chat agent=Gita topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Follow-up email sent with steps. Production that week averaged 32 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-05-26] #4408 channel=phone agent=Ada topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. No further action needed. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-05-29] #4409 channel=email agent=Chidi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer was friendly. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-05-30] #4410 channel=chat agent=Eli topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer sounded rushed. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-06-02] #4411 channel=phone agent=Gita topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer was friendly. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-06-04] #4412 channel=phone agent=Ben topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer thanked the team. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-06-06] #4413 channel=email agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. No further action needed. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-06-07] #4414 channel=chat agent=Ben topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 19 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-06-09] #4415 channel=phone agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. No further action needed. Production that week averaged 20 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-06-10] #4416 channel=phone agent=Chidi topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Resolved on first contact. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-06-13] #4417 channel=email agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. No further action needed. Production that week averaged 19 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-06-15] #4418 channel=phone agent=Dana topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer thanked the team. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-06-18] #4419 channel=email agent=Ben topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2024-06-21] #4420 channel=email agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Logged for weekly review. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-06-23] #4421 channel=chat agent=Ben topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 18 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-06-26] #4422 channel=phone agent=Ada topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Resolved on first contact. Production that week averaged 18 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-06-28] #4423 channel=email agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-06-29] #4424 channel=chat agent=Eli topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer was friendly. Production that week averaged 19 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-07-01] #4425 channel=phone agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 31 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-07-02] #4426 channel=phone agent=Chidi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 34 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-07-03] #4427 channel=phone agent=Ada topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer sounded rushed. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-07-05] #4428 channel=chat agent=Eli topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 34 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-07-06] #4429 channel=email agent=Ben topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer was friendly. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-07-07] #4430 channel=chat agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Resolved on first contact. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-07-10] #4431 channel=email agent=Dana topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Follow-up email sent with steps. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-07-12] #4432 channel=email agent=Ada topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer thanked the team. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-07-13] #4433 channel=chat agent=Gita topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Follow-up email sent with steps. Production that week averaged 25 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-07-16] #4434 channel=email agent=Ada topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Follow-up email sent with steps. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-07-19] #4435 channel=email agent=Dana topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Follow-up email sent with steps. Production that week averaged 20 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-07-22] #4436 channel=email agent=Ben topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 25 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-07-25] #4437 channel=email agent=Chidi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. No further action needed. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2024-07-28] #4438 channel=phone agent=Femi topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer thanked the team. Production that week averaged 30 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-07-29] #4439 channel=phone agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. No further action needed. Production that week averaged 24 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-07-30] #4440 channel=phone agent=Ben topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Follow-up email sent with steps. Production that week averaged 18 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-08-02] #4441 channel=chat agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Follow-up email sent with steps. Production that week averaged 32 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-08-05] #4442 channel=phone agent=Femi topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 20 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-08-07] #4443 channel=chat agent=Eli topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. No further action needed. Production that week averaged 32 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-08-10] #4444 channel=chat agent=Gita topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer sounded rushed. Production that week averaged 20 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-08-13] #4445 channel=phone agent=Chidi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer was friendly. Production that week averaged 31 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-08-16] #4446 channel=phone agent=Chidi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer sounded rushed. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-08-17] #4447 channel=email agent=Gita topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-08-18] #4448 channel=chat agent=Gita topic=payment
+  Summary: Customer updated card on file; confirmed by phone. No further action needed. Production that week averaged 28 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-08-21] #4449 channel=phone agent=Femi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 31 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-08-22] #4450 channel=chat agent=Chidi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Logged for weekly review. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-08-25] #4451 channel=phone agent=Chidi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer thanked the team. Production that week averaged 23 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-08-28] #4452 channel=phone agent=Femi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-08-30] #4453 channel=chat agent=Dana topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 18 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-09-01] #4454 channel=email agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer was friendly. Production that week averaged 23 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-09-02] #4455 channel=phone agent=Ben topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. No further action needed. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-09-05] #4456 channel=chat agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Follow-up email sent with steps. Production that week averaged 22 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-09-06] #4457 channel=email agent=Ada topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer was friendly. Production that week averaged 18 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-09-08] #4458 channel=email agent=Femi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Follow-up email sent with steps. Production that week averaged 18 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-09-10] #4459 channel=chat agent=Chidi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-09-12] #4460 channel=phone agent=Gita topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 27 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-09-13] #4461 channel=chat agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer sounded rushed. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-09-15] #4462 channel=email agent=Eli topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer sounded rushed. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-09-18] #4463 channel=phone agent=Gita topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer sounded rushed. Production that week averaged 25 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-09-19] #4464 channel=chat agent=Femi topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-09-22] #4465 channel=email agent=Ada topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer thanked the team. Production that week averaged 28 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-09-24] #4466 channel=phone agent=Ada topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer thanked the team. Production that week averaged 21 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-09-27] #4467 channel=chat agent=Chidi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer sounded rushed. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-09-30] #4468 channel=phone agent=Gita topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer was friendly. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-10-02] #4469 channel=email agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Resolved on first contact. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-10-03] #4470 channel=phone agent=Dana topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-10-04] #4471 channel=email agent=Dana topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Logged for weekly review. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-10-07] #4472 channel=chat agent=Dana topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Logged for weekly review. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-10-09] #4473 channel=phone agent=Dana topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer thanked the team. Production that week averaged 32 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-10-11] #4474 channel=phone agent=Dana topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-10-14] #4475 channel=chat agent=Ben topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-10-17] #4476 channel=phone agent=Ada topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. No further action needed. Production that week averaged 30 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-10-20] #4477 channel=email agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer was friendly. Production that week averaged 28 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-10-23] #4478 channel=email agent=Gita topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Resolved on first contact. Production that week averaged 27 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-10-24] #4479 channel=email agent=Gita topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer was friendly. Production that week averaged 22 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-10-26] #4480 channel=chat agent=Gita topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Follow-up email sent with steps. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-10-27] #4481 channel=email agent=Femi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. No further action needed. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-10-30] #4482 channel=phone agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Logged for weekly review. Production that week averaged 18 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2024-11-02] #4483 channel=email agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer thanked the team. Production that week averaged 27 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-11-05] #4484 channel=chat agent=Ben topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer was friendly. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2024-11-06] #4485 channel=email agent=Femi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 22 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-11-09] #4486 channel=chat agent=Chidi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Follow-up email sent with steps. Production that week averaged 26 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2024-11-11] #4487 channel=email agent=Femi topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer thanked the team. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-11-13] #4488 channel=chat agent=Femi topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Follow-up email sent with steps. Production that week averaged 23 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-11-16] #4489 channel=chat agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Customer sounded rushed. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-11-17] #4490 channel=chat agent=Ben topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer sounded rushed. Production that week averaged 30 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-11-20] #4491 channel=phone agent=Dana topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. No further action needed. Production that week averaged 18 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-11-22] #4492 channel=email agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Follow-up email sent with steps. Production that week averaged 26 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-11-23] #4493 channel=phone agent=Eli topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer thanked the team. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-11-26] #4494 channel=email agent=Eli topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer sounded rushed. Production that week averaged 18 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2024-11-28] #4495 channel=chat agent=Ada topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 20 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-11-29] #4496 channel=phone agent=Ben topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Follow-up email sent with steps. Production that week averaged 31 kWh/day; app firmware 3.3.0; ticket closed after 4 day(s).
+
+[2024-12-02] #4497 channel=phone agent=Femi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Logged for weekly review. Production that week averaged 19 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-12-03] #4498 channel=chat agent=Ada topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer sounded rushed. Production that week averaged 18 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-12-04] #4499 channel=email agent=Ben topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. No further action needed. Production that week averaged 28 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-12-07] #4500 channel=phone agent=Ben topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer sounded rushed. Production that week averaged 24 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-12-09] #4501 channel=chat agent=Eli topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer was friendly. Production that week averaged 23 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2024-12-12] #4502 channel=email agent=Dana topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Follow-up email sent with steps. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2024-12-13] #4503 channel=email agent=Eli topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Resolved on first contact. Production that week averaged 18 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2024-12-14] #4504 channel=chat agent=Gita topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Logged for weekly review. Production that week averaged 30 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-12-17] #4505 channel=phone agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Customer sounded rushed. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2024-12-20] #4506 channel=phone agent=Chidi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. Resolved on first contact. Production that week averaged 27 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2024-12-23] #4507 channel=phone agent=Gita topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. No further action needed. Production that week averaged 28 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2024-12-26] #4508 channel=phone agent=Gita topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. No further action needed. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2024-12-27] #4509 channel=phone agent=Eli topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. No further action needed. Production that week averaged 22 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2024-12-29] #4510 channel=email agent=Gita topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer was friendly. Production that week averaged 19 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2024-12-30] #4511 channel=phone agent=Ben topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer thanked the team. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2025-01-01] #4512 channel=chat agent=Femi topic=output
+  Summary: Customer reported lower output on a cloudy week; explained seasonal variation per manual S4. Resolved on first contact. Production that week averaged 24 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2025-01-02] #4513 channel=chat agent=Chidi topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Customer thanked the team. Production that week averaged 18 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).
+
+[2025-01-05] #4514 channel=phone agent=Femi topic=app
+  Summary: Customer asked how to read the daily production graph; explained kWh vs kW. No further action needed. Production that week averaged 26 kWh/day; app firmware 3.2.4; ticket closed after 1 day(s).
+
+[2025-01-06] #4515 channel=email agent=Gita topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. No further action needed. Production that week averaged 33 kWh/day; app firmware 3.2.1; ticket closed after 4 day(s).
+
+[2025-01-08] #4516 channel=phone agent=Eli topic=newsletter
+  Summary: Customer asked to stop marketing emails; unsubscribed. Resolved on first contact. Production that week averaged 30 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2025-01-11] #4517 channel=chat agent=Eli topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Customer thanked the team. Production that week averaged 22 kWh/day; app firmware 3.3.0; ticket closed after 2 day(s).
+
+[2025-01-12] #4518 channel=email agent=Femi topic=payment
+  Summary: Customer updated card on file; confirmed by phone. Customer thanked the team. Production that week averaged 19 kWh/day; app firmware 3.2.4; ticket closed after 4 day(s).
+
+[2025-01-13] #4519 channel=email agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. No further action needed. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2025-01-15] #4520 channel=email agent=Dana topic=billing
+  Summary: Customer asked for a copy of the monthly statement; sent PDF. Customer was friendly. Production that week averaged 26 kWh/day; app firmware 3.3.0; ticket closed after 3 day(s).
+
+[2025-01-18] #4521 channel=phone agent=Ada topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Logged for weekly review. Production that week averaged 19 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2025-01-20] #4522 channel=email agent=Eli topic=cleaning
+  Summary: Customer asked whether panels need cleaning; pointed to S8. Customer was friendly. Production that week averaged 23 kWh/day; app firmware 3.2.1; ticket closed after 2 day(s).
+
+[2025-01-23] #4523 channel=email agent=Eli topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Customer sounded rushed. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2025-01-26] #4524 channel=chat agent=Femi topic=battery
+  Summary: Customer asked about backup mode during outages; explained Cell-10 reserve setting. Follow-up email sent with steps. Production that week averaged 25 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2025-01-26] #4524b channel=internal agent=Ops topic=site
+  NOTE: From February 2025 the customer prefers WhatsApp messages after 6 pm, never phone calls.
+
+[2025-01-28] #4525 channel=phone agent=Femi topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Logged for weekly review. Production that week averaged 31 kWh/day; app firmware 3.2.4; ticket closed after 2 day(s).
+
+[2025-01-29] #4526 channel=phone agent=Dana topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Follow-up email sent with steps. Production that week averaged 34 kWh/day; app firmware 3.2.1; ticket closed after 3 day(s).
+
+[2025-01-30] #4527 channel=phone agent=Eli topic=survey
+  Summary: Customer asked about adding panels later; noted interest, no action. Customer sounded rushed. Production that week averaged 29 kWh/day; app firmware 3.3.0; ticket closed after 1 day(s).
+
+[2025-02-02] #4528 channel=phone agent=Eli topic=wifi
+  Summary: Customer monitoring app lost Wi-Fi after router reboot; walked through reconnect steps. Customer was friendly. Production that week averaged 34 kWh/day; app firmware 3.2.4; ticket closed after 3 day(s).
+
+[2025-02-04] #4529 channel=chat agent=Dana topic=warranty
+  Summary: Customer asked how long the inverter warranty lasts; confirmed 10 years. Follow-up email sent with steps. Production that week averaged 29 kWh/day; app firmware 3.2.1; ticket closed after 1 day(s).

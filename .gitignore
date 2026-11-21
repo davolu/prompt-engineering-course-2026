@@ -1,0 +1,36 @@
+# Secrets. .env.example is the empty template and stays in git.
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Promptfoo eval output (Chapter 20)
+.promptfoo/
+evals/output/
+
+# OS junk
+.DS_Store
+Thumbs.db
