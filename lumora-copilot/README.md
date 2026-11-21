@@ -2,6 +2,10 @@
 
 Code for the **Agentic AI Hub** video *Prompt Engineering Full Course 2026: Every Technique, Hands-On*.
 
+Watch the full course on YouTube: https://youtu.be/MkY-3PZEMWE
+
+Free cheat sheet: https://535214083743.gumroad.com/l/znjjvv
+
 The guide at the repository root covers cloning, the virtual environment, your API key, Colab, and how to run each part. The commands below assume you are already inside this `lumora-copilot` folder.
 
 Lumora Solar is a **fictional** home-solar installer. Every ticket, customer, invoice and manual page here is synthetic.

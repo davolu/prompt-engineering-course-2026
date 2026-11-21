@@ -2,7 +2,9 @@
 
 Hands-on companion code for **David Oluyale, Agentic AI Hub**: *Prompt Engineering Full Course 2026: Beginner to Advanced (Hands-On)*.
 
-Watch the full course on YouTube: (link coming soon)
+Watch the full course on YouTube: https://youtu.be/MkY-3PZEMWE
+
+Free cheat sheet: https://535214083743.gumroad.com/l/znjjvv
 
 - YouTube channel: https://www.youtube.com/@AgenticAIHub1
 - Notebook on Google Colab: https://colab.research.google.com/drive/1UstrHf0EMx6B0Ed3jHser50djLVUnSsX
