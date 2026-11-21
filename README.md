@@ -1,47 +1,76 @@
-# Prompt Engineering Full Course 2026
+# Prompt Engineering for Beginners 2026
 
-Hands-on companion code for **David Oluyale, Agentic AI Hub**: *Prompt Engineering Full Course 2026: Beginner to Advanced (Hands-On)*.
+Hands-on companion code for **David Oluyale, Agentic AI Hub**: *Prompt Engineering for Beginners 2026: Full Course (Hands-On)*.
 
-Watch the full course on YouTube: https://youtu.be/MkY-3PZEMWE
+Watch the full course on YouTube: https://youtu.be/c9dAjdGX8D4
 
-Free cheat sheet: https://535214083743.gumroad.com/l/znjjvv
-
+- Notebook on Google Colab (run it yourself): https://colab.research.google.com/drive/1UstrHf0EMx6B0Ed3jHser50djLVUnSsX
+- Free 2-page cheat sheet: https://535214083743.gumroad.com/l/znjjvv (also in this repo: [`beginners-2026/Prompt_Engineering_for_Beginners_Cheat_Sheet.pdf`](beginners-2026/Prompt_Engineering_for_Beginners_Cheat_Sheet.pdf))
 - YouTube channel: https://www.youtube.com/@AgenticAIHub1
-- Notebook on Google Colab: https://colab.research.google.com/drive/1UstrHf0EMx6B0Ed3jHser50djLVUnSsX
 
-You build one project, the **Lumora Solar Support Copilot**. Lumora is a fictional home-solar installer. Every ticket, customer, invoice, and manual page in this repo is synthetic. Each chapter adds one prompting technique, and a 20-ticket scorecard measures what that technique changes.
+No coding experience needed. The course teaches 16 prompting techniques, one at a time. Each lesson has its own small, everyday example and follows the same five steps: what it is in one sentence, a weak prompt and its answer, the technique explained line by line, the two answers side by side with a real measured number, and a one-line recap of when to use it.
 
-The course code lives in [`lumora-copilot/`](lumora-copilot/). The notebook finds a folder with that name, which is why the project is not flattened onto the repository root.
+## The 16 lessons
 
-## What the course covers
+| # | Technique | Everyday example | Result in the recorded run |
+|---|---|---|---|
+| 1 | Clear instructions | A birthday message | Rules followed: 0/5 vs 5/5 |
+| 2 | Delimiters | Summarising product reviews | Clean summaries: 6/10 vs 10/10 |
+| 3 | Roles (system prompts) | Doctor, teacher, comedian | Reading grade 11.5 with no role, 5.6 as a teacher |
+| 4 | Few-shot examples | Labelling tweets | Exact labels: 0/10 vs 10/10 |
+| 5 | Structured output (JSON) | A recipe turned into data | Valid JSON: 0/5 vs 5/5 |
+| 6 | Templates | Product descriptions | 241 words vs 3/3 under 60 words |
+| 7 | Chain-of-thought | A big shopping bill | Correct total: 2/8 vs 8/8 |
+| 8 | Self-consistency | Asking 5 times and voting | Single answers 18/20, majority vote 4/4 |
+| 9 | Prompt chaining | A blog post: outline, draft, edit | 540 words (grade 8.0) vs 221 words (grade 3.3) |
+| 10 | Breaking a big task into small questions | A $400 family weekend | Within budget: 4/5 vs 5/5 |
+| 11 | Tool use | Should I take an umbrella? | The answer used the weather tool's 80% forecast |
+| 12 | RAG (answering from your own documents) | A school handbook, with sources | Correct: 0/5 vs 5/5 |
+| 13 | Prompts with images | A shopping receipt photo | 6/6 prices and the total read correctly |
+| 14 | Reflection | An email to a landlord | Checklist score: 1/4 vs 4/4 |
+| 15 | Prompt injection and how to defend | An email summariser | Warnings: 0/6 vs 6/6; bad links repeated: 1 vs 0 |
+| 16 | Testing your prompts | A 12-tweet scorecard | Vague 0/12, one-word 12/12, few-shot 12/12 |
 
-The notebook has 21 chapters:
+The whole recorded notebook run used 30,788 input and 33,126 output tokens on `claude-haiku-5-5` and cost about **$0.02**. Prices change, so check [Anthropic's pricing page](https://platform.claude.com/docs/en/about-claude/pricing) before you run it. Results will vary a little from run to run.
 
-1. Setup and the anatomy of a prompt
-2. Zero-shot, clear instructions, and delimiters
-3. System prompts, roles, persona, and tone
-4. Few-shot prompting
-5. Output formatting and structured outputs (JSON Schema)
-6. Prompt templates, variables, and versioning
-7. Chain-of-thought and reasoning models (and when not to use chain-of-thought)
-8. Self-consistency and program-aided reasoning
-9. Prompt chaining
-10. Decomposition: least-to-most, step-back, and plan-and-solve
-11. ReAct and tool use (function calling)
-12. RAG prompting and grounding with citations
-13. Long-context techniques
-14. Multimodal prompting (images and documents)
-15. Tree of Thoughts
-16. Reflection, self-critique, and Chain-of-Verification
-17. Meta-prompting, prompt generation, and automatic optimisation
-18. Prompt caching, cost, and latency
-19. Security: prompt injection and layered defences
-20. Evaluating prompts: a test set, LLM-as-judge, and Promptfoo
-21. Wrap-up: the scorecard
+## Files
 
-The recorded run uses `claude-haiku-5-5` for almost every call, and `claude-sonnet-5-5` when a chapter compares models or asks a judge model to score a reply. That full notebook run made 950 API calls (1,716,921 input tokens and 117,203 output tokens) and cost about **$0.48**. Prices change. Check [Anthropic's pricing page](https://platform.claude.com/docs/en/about-claude/pricing) before you run every cell. Each cell prints its own cost from the ledger in `lumora/llm.py`.
+| File | What it is |
+|---|---|
+| [`beginners-2026/Prompt_Engineering_for_Beginners_2026.ipynb`](beginners-2026/Prompt_Engineering_for_Beginners_2026.ipynb) | The notebook to run yourself (empty outputs) |
+| [`beginners-2026/Prompt_Engineering_for_Beginners_2026_EXECUTED.ipynb`](beginners-2026/Prompt_Engineering_for_Beginners_2026_EXECUTED.ipynb) | The same notebook with every output from the recorded run |
+| [`beginners-2026/Prompt_Engineering_for_Beginners_Cheat_Sheet.pdf`](beginners-2026/Prompt_Engineering_for_Beginners_Cheat_Sheet.pdf) | 2-page cheat sheet: a pattern to copy for each technique |
+| [`beginners-2026/receipt.jpg`](beginners-2026/receipt.jpg) | The made-up receipt photo used in Lesson 13 |
 
-## Prerequisites
+## Run it in Google Colab (easiest)
+
+1. Open the Colab link above, then choose **File → Save a copy in Drive**.
+2. Click the key icon on the left (Secrets), add a secret named `ANTHROPIC_API_KEY` with your own key, and switch **Notebook access** on. Get a key at https://console.anthropic.com/.
+3. Run the cells from top to bottom with **Shift + Enter**. Lesson 13 downloads the receipt photo by itself.
+
+The notebook only prints whether the key was found. Never paste your key into a cell, a screenshot, or a commit.
+
+## Run it on your own computer
+
+```bash
+git clone https://github.com/davolu/prompt-engineering-course-2026
+cd prompt-engineering-course-2026/beginners-2026
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install anthropic jupyterlab
+export ANTHROPIC_API_KEY=your-key-here   # Windows PowerShell: $env:ANTHROPIC_API_KEY="your-key-here"
+jupyter lab Prompt_Engineering_for_Beginners_2026.ipynb
+```
+
+---
+
+# Going further: the Lumora Solar project (first edition)
+
+The rest of this repository is the earlier, more advanced edition of the course. It has one bigger project, the **Lumora Solar Support Copilot**, with 21 chapters measured on a 20-ticket scorecard. It covers extra topics such as long context, Tree of Thoughts, meta-prompting, prompt caching and a Promptfoo eval. The code lives in [`lumora-copilot/`](lumora-copilot/). Every ticket, customer, invoice and manual page in it is synthetic.
+
+That full notebook run made 950 API calls (1,716,921 input tokens and 117,203 output tokens) and cost about **$0.48**.
+
+## Lumora: prerequisites
 
 - Python 3.10 or newer, with `pip`. Python 3.11 or 3.12 is a good choice.
 - An Anthropic API key of your own, for any chapter that calls the model: https://console.anthropic.com/
@@ -50,7 +79,7 @@ The recorded run uses `claude-haiku-5-5` for almost every call, and `claude-sonn
 
 The data files and the pure-Python helpers (quote math, retrieval, the scheduling checker, and the fake tools) run with no API key and no spend. The notebook and `scripts/` call the API once a key is loaded.
 
-## Setup
+## Lumora: setup
 
 ```bash
 git clone https://github.com/davolu/prompt-engineering-course-2026
@@ -103,7 +132,7 @@ Confirm the key is present without printing it:
 python -c "import os; print('ANTHROPIC_API_KEY is set:', bool(os.environ.get('ANTHROPIC_API_KEY')))"
 ```
 
-## How to run each part
+## Lumora: how to run each part
 
 Run these from `lumora-copilot/` with the virtual environment active.
 
@@ -131,8 +160,6 @@ The notebook's first cell tells you to upload `lumora-copilot.zip` and unzip it.
 ```
 
 That leaves a `lumora-copilot` folder in the working directory, which is the folder the notebook adds to `sys.path`. Add `ANTHROPIC_API_KEY` in Colab's Secrets panel (the key icon) and allow notebook access. Uncomment the `%pip install` line in the first code cell, then run the cells.
-
-Published Colab notebook: https://colab.research.google.com/drive/1UstrHf0EMx6B0Ed3jHser50djLVUnSsX
 
 ### Scripts
 
@@ -166,13 +193,14 @@ npx promptfoo@latest view
 export PROMPTFOO_PYTHON="$(pwd)/../.venv/bin/python"
 ```
 
-## Project structure
+## Lumora: project structure
 
 ```
 prompt-engineering-course-2026/
 ├── README.md                 this guide
 ├── LICENSE                   MIT License, copyright David Oluyale
 ├── .gitignore
+├── beginners-2026/           the beginner course: notebooks, cheat sheet, receipt photo
 └── lumora-copilot/
     ├── .env.example          empty ANTHROPIC_API_KEY; copy to .env
     ├── requirements.txt      anthropic, pydantic, jinja2
