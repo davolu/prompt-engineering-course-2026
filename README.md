@@ -1,6 +1,6 @@
-# Prompt Engineering for Beginners 2026
+# Prompt Engineering: Beginner to Advanced (2026 Full Course, Hands-On)
 
-Hands-on companion code for **David Oluyale, Agentic AI Hub**: *Prompt Engineering for Beginners 2026: Full Course (Hands-On)*.
+Hands-on companion code for **David Oluyale, Agentic AI Hub**: *Prompt Engineering: Beginner to Advanced (2026 Full Course, Hands-On)*.
 
 Watch the full course on YouTube: https://youtu.be/c9dAjdGX8D4
 
